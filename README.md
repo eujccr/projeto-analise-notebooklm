@@ -18,7 +18,7 @@ O NotebookLM foi utilizado para:
 
 Os seguintes documentos foram utilizados:
 
-**VÍDEOS**
+**VÍDEOS**  
 https://www.youtube.com/watch?v=p3Vod42Bzsc  
 https://www.youtube.com/watch?v=jJ5k_Byd9Fs  
 https://www.youtube.com/watch?v=p00BmV95E_s  
@@ -35,12 +35,12 @@ https://www.youtube.com/watch?v=qZVp739d6Aw
 https://www.youtube.com/watch?v=u94wcz6QIyc  
 https://www.youtube.com/watch?v=jigjI2uPSDE  
 
-**FONTES DE TEXTO**
-https://www.gainsight.com/blog/the-ultimate-list-of-customer-success-resources-for-2023
-https://www.hubspot.com/resources/customer-success
-https://www.customersuccesscollective.com
-https://www.custify.com/blog
-https://portalcustomer.com.br)
+**FONTES DE TEXTO**  
+https://www.gainsight.com/blog/the-ultimate-list-of-customer-success-resources-for-2023  
+https://www.hubspot.com/resources/customer-success  
+https://www.customersuccesscollective.com  
+https://www.custify.com/blog  
+https://portalcustomer.com.br  
 
 ## 🔎 Processo de análise
 
