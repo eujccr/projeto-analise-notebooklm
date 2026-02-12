@@ -19,21 +19,21 @@ O NotebookLM foi utilizado para:
 Os seguintes documentos foram utilizados:
 
 **VÍDEOS**
-https://www.youtube.com/watch?v=p3Vod42Bzsc
-https://www.youtube.com/watch?v=jJ5k_Byd9Fs
-https://www.youtube.com/watch?v=p00BmV95E_s
-https://www.youtube.com/watch?v=w2a-CSclP24
-https://www.youtube.com/watch?v=VVOuuiKl48s
-https://www.youtube.com/watch?v=x4FoOPgaCBY
-https://www.youtube.com/watch?v=2gxnr3r1YVU
-https://www.youtube.com/watch?v=lmVBU8hR8YI
-https://www.youtube.com/watch?v=BeWBtrR75u0
-https://www.youtube.com/watch?v=J8AR9sKkwlE
-https://www.youtube.com/watch?v=erC_ULDr_SA
-https://www.youtube.com/watch?v=7VSY9eaGsa0
-https://www.youtube.com/watch?v=qZVp739d6Aw
-https://www.youtube.com/watch?v=u94wcz6QIyc
-https://www.youtube.com/watch?v=jigjI2uPSDE
+https://www.youtube.com/watch?v=p3Vod42Bzsc  
+https://www.youtube.com/watch?v=jJ5k_Byd9Fs  
+https://www.youtube.com/watch?v=p00BmV95E_s  
+https://www.youtube.com/watch?v=w2a-CSclP24  
+https://www.youtube.com/watch?v=VVOuuiKl48s  
+https://www.youtube.com/watch?v=x4FoOPgaCBY  
+https://www.youtube.com/watch?v=2gxnr3r1YVU  
+https://www.youtube.com/watch?v=lmVBU8hR8YI  
+https://www.youtube.com/watch?v=BeWBtrR75u0  
+https://www.youtube.com/watch?v=J8AR9sKkwlE  
+https://www.youtube.com/watch?v=erC_ULDr_SA  
+https://www.youtube.com/watch?v=7VSY9eaGsa0  
+https://www.youtube.com/watch?v=qZVp739d6Aw  
+https://www.youtube.com/watch?v=u94wcz6QIyc  
+https://www.youtube.com/watch?v=jigjI2uPSDE  
 
 **FONTES DE TEXTO**
 https://www.gainsight.com/blog/the-ultimate-list-of-customer-success-resources-for-2023
